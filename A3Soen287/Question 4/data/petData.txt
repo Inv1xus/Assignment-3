@@ -1,0 +1,6 @@
+1:Tony:Dog:sdfasd:4-7:Female:yes:yes:sdasd
+2:ejay:Dog:2342:7-10:No preference:no:yes:.mkl,m
+3:Tony:Dog:23:4-7:Male:undefined:undefined:
+4:Bob:Dog:sex:4-7:Male:yes:yes:yes
+5:Bob:Dog:sex:4-7:Male:yes:yes:yes
+6:Bob:Dog:sex:4-7:Male:yes:yes:yes
